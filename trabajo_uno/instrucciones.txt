@@ -1,0 +1,8 @@
+Alumno: Alberto Baltazar Gutiérrez Ortega
+Matricula: 1887970
+
+1. Abrir el archivo assignment_1.html en un navegador. 
+Esto se hace abriendo una nueva pestaña -> Ctrl + o -> Seleccionar archivo
+2. Para observar mensajes por consola presionar la tecla f12 o click derecho -> Inspeccionar -> Console
+3. El codigo fue escrito en el lenguaje JavaScript. Se encuentra en el archivo code.js
+
